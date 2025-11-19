@@ -12,7 +12,7 @@
 
 <p align="center"><i>“Consistency becomes Skill. 꾸준함은 곧 실력이다.”</i></p>
 <p align="center">
-  <img src="https://media.tenor.com/smxDF7eQs6EAAAAj/%EB%8B%AC%EB%A6%AC%EB%8A%94%EB%86%8D%EB%8B%B4%EA%B3%B0-joke-bear.gif" width="90" style="margin-left:-35px;">
+  <img src="https://media.tenor.com/smxDF7eQs6EAAAAj/%EB%8B%AC%EB%A6%AC%EB%8A%94%EB%86%8D%EB%8B%B4%EA%B3%B0-joke-bear.gif" width="90" style="margin-left:-40px;">
 </p>
 
 ---
