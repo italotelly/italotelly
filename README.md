@@ -17,6 +17,24 @@
 
 ---
 
+## 🕓 Timeline
+
+- **2019.03 ~ 2023.02** — 🎓 _Inha University_  
+
+  B.S. Information & Communication Engineering
+
+- **2022.08 ~ 2023.02** — 🔬 _SYDLAB_
+
+  Digital System Design Lab, Inha University
+
+- **2023.03 ~ 2025.06** — 🪖 _ROKA Signal Officer_ 
+
+  Inha ROTC 61th
+
+- **2025.07 ~ Present** — 🤖 _SSAFY Embedded Robot Track_
+
+---
+
 ## 👋 About Me
 
 안녕하세요!
