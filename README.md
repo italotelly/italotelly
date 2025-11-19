@@ -107,9 +107,7 @@ SSAFY 임베디드 로봇 과정의 실전 프로젝트를 기반으로
 - 국제학술대회 2023.05.22
 
   ```
-  Improving the Compression Efficiency of
-  Displacement using Morton-ordered Micro-Image in
-  Video-based Dynamic Mesh Coding
+  Improving the Compression Efficiency of Displacement using Morton-ordered Micro-Image in Video-based Dynamic Mesh Coding
   ```
 
   IEEE Circuits and System Society (CASS)
