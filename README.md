@@ -19,7 +19,7 @@
 
 ## 🕓 Timeline
 
-- **2019.03 ~ 2023.02** — 🎓 _Inha University_  
+- **2019.03 ~ 2023.02** — 🎓 _Inha University_
 
   B.S. Information & Communication Engineering
 
@@ -27,7 +27,7 @@
 
   Digital System Design Lab, Inha University
 
-- **2023.03 ~ 2025.06** — 🪖 _ROKA Signal Officer_ 
+- **2023.03 ~ 2025.06** — 🪖 _ROKA Signal Officer_
 
   Inha ROTC 61th
 
@@ -159,7 +159,7 @@ SSAFY 임베디드 로봇 과정의 실전 프로젝트를 기반으로
 
 ---
 
-## 🏆 Algorithm & BOJ Stats
+## 🏆 Algorithm & BOJ Stats & English Study
 
 <div align="center">
 
@@ -170,6 +170,10 @@ SSAFY 임베디드 로봇 과정의 실전 프로젝트를 기반으로
 ### 🔹 **스트릭**
 
 <img src="http://mazandi.herokuapp.com/api?handle=fbrhkdcjf&theme=warm" height="180"/>
+
+### 🔹 **말해보카**
+
+<img src="https://raw.githubusercontent.com/italotelly/italotelly/main/english_study.jpg" height="215"/>
 
 </div>
 
