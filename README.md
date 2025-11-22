@@ -76,9 +76,9 @@ SSAFY 임베디드 로봇 과정의 실전 프로젝트를 기반으로
 ### 🤖 **Robot Lifecycle Diagnostics & Preventive Maintenance**
 
 - STM32 활용 하 원격으로 컨베이어 벨트 동작
-- RealSense 기반 Dobot의 박스 분류 및 TurtleBot 활용 물류 이송 자동화
+- RealSense 기반 Dobot의 박스 분류 및 TurtleBot 활용 물류 이동 자동화
 - Ros Topic으로 로봇 장비의 센서·전류·배터리 상태 데이터 수집
-- 원격 로그 분석을 통한 수명 분석
+- 원격 로그 분석을 통한 수명 예측
 - 교체 시기 예측 → 공정 다운타임 최소화
 
 ---
