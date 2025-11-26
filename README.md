@@ -182,7 +182,7 @@ SSAFY 임베디드 로봇 과정의 실전 프로젝트를 기반으로
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=italotelly&show_icons=true&theme=tokyonight&cache_seconds=1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=italotelly&show_icons=true&theme=tokyonight" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italotelly&layout=compact&theme=tokyonight" />
 </p>
 
